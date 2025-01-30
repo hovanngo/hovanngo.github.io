@@ -8,7 +8,9 @@ Lidacane demo - https://www.youtube.com/watch?v=fZIkE9RzTuY
 
 Kelp Exhibit demo - https://www.youtube.com/watch?v=z9afTGFZIW4
 
-3D Printed Centrifuge demo - 
+3D Printed Centrifuge demo
+
+3D-Scanner 
 
 Work in progress:
 
