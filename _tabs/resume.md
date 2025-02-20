@@ -6,7 +6,11 @@ order: 4
 
 
 
-![ngo_resume1](/assets/img/images/ngo_resume1.png "resume") 
+## 
+[Download Link](assets/ngoresume.pdf "resume1")
 
+
+
+![ngo_resume1](/assets/img/images/ngo_resume1.png "resume")
 
 
