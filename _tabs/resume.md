@@ -7,7 +7,7 @@ order: 4
 
 
 ## 
-[Download Link](assets/ngoresume.pdf "resume1")
+[Download Link](/assets/ngoresume.pdf "resume1")
 
 
 
