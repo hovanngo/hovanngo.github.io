@@ -13,7 +13,7 @@ Problem: Lots of labwares exist, with different inner well geometries. The geome
 
 Process: I made a novel method of mapping liquid heights to volume, utilizing a robot protocol to automatically create a look up table that is referenced when dispensing liquid. 
 
-![IWG craetor 1](/assets/img/images/IWGcreator1.jpeg "IWGcreator1")
+![IWG creator 1](/assets/img/images/IWGcreator1.jpeg "IWGcreator1")
 ## CMM Probe 
 
 Problem: current calibration probe worked via capacitance, meaning it could only probe the grounded metal deck. A much more robust and practical solution would be to affix a CMM probe to the end of the pipette tip. 
