@@ -20,6 +20,8 @@ Problem: current calibration probe worked via capacitance, meaning it could only
 
 Process: I created hardware firmware for a mechanical touch probe to interact with the sync line on the pipette PCB, triggering the move stop condition upon touching something. Wrote higher level drivers to utilize REPL, and wrote a series of test calibration scripts to probe previously unprobable objects at 10x speed, including labwares, modules, etc. Designed the probe mount in Solidworks, specced the drawing for manufacture in our Shenzhen office. 
 
+test
+
 
 ![probe assembly 1](/assets/img/images/probeassembly1.jpeg "probeassembly1")
 
